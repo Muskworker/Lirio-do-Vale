@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: RKLirio-Regular
-FullName: RK Lirio Regular
-FamilyName: Lirio
+FontName: RKLirioDoVale-Regular
+FullName: RK Lirio do Vale Regular
+FamilyName: Lirio do Vale
 Weight: Regular
 Copyright: Copyright (c) 2015, Luis Walker
 UComments: "2015-7-4: Created with FontForge (http://fontforge.org)"
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1436121923
+ModificationTime: 1436128204
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 80 20 4
+WinInfo: 60 20 4
 BeginPrivate: 0
 EndPrivate
 Grid
