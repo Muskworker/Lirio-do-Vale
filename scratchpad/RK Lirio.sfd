@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1436040349
+ModificationTime: 1436066462
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,38 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 20 8
+WinInfo: 60 20 4
 BeginPrivate: 0
 EndPrivate
+Grid
+-43 604 m 1
+ 301 604 l 1
+ 301 604 l 1
+ -43 604 l 1
+ -43 604 l 1
+-39 467 m 1
+ 305 467 l 1
+ 305 467 l 1
+ -39 467 l 1
+ -39 467 l 1
+-37 329 m 1
+ 312 329 l 1
+ 312 329 l 1
+ -37 329 l 1
+ -37 329 l 1
+-42 200 m 1
+ 312 200 l 1
+ 312 200 l 1
+ -42 200 l 1
+ -42 200 l 1
+-36 -202 m 1
+ 297 -202 l 1
+ 297 -202 l 1
+ -36 -202 l 1
+ -36 -202 l 1
+EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 2
+BeginChars: 65536 14
 
 StartChar: o
 Encoding: 111 111 0
@@ -482,5 +509,28 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: v
+Encoding: 118 118 13
+Width: 288
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+110 -20 m 29
+ 80 4 l 1
+ 71.306640625 92.37890625 24.58984375 283.104492188 10 329 c 1
+ 43 350 l 1
+ 66 329 l 1
+ 77.3388671875 292.77734375 113.07421875 128.928710938 125 64 c 1
+ 158.092773438 128.861328125 201 201.71484375 201 296 c 3
+ 201 312 190 329 190 329 c 1
+ 225 369 l 1
+ 225 369 256 349 256 329 c 3
+ 256 216.875 187.004882812 89.8037109375 149 2 c 1
+ 110 -20 l 29
+EndSplineSet
+EndChar
 EndChars
 EndSplineFont
