@@ -161,6 +161,16 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: space
+Encoding: 32 32 3
+Width: 150
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+EndChar
+
 VWidth: 0
 Flags: HW
 LayerCount: 2
