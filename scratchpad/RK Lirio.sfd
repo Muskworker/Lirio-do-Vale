@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1436067286
+ModificationTime: 1436068544
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -77,7 +77,7 @@ Grid
  -36 -202 l 1
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 15
+BeginChars: 65536 17
 
 StartChar: o
 Encoding: 111 111 0
@@ -167,16 +167,16 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-35 69 m 3
+35 69 m 7
  35 32 70 -5 107 -5 c 0
  137 -5 153 7 170 28 c 1
  146 56 l 1
  136 43 130 36 114 36 c 3
- 102 36 95 56 95 75 c 3
- 95 153 93 329 93 329 c 1
- 67 346 l 1
- 33 322 l 1
- 33 322 35 152 35 69 c 3
+ 102 36 95 56 95 75 c 7
+ 95 153 93 329 93 329 c 5
+ 67 346 l 5
+ 33 322 l 5
+ 33 322 35 152 35 69 c 7
 63 471 m 3
  82 471 104 453 104 434 c 3
  104 417 85 403 68 403 c 3
@@ -444,8 +444,38 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: u
+Encoding: 117 117 11
+Width: 300
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Back
+Fore
+SplineSet
+185 156 m 1
+ 164 111 129 -7 68 -7 c 0
+ 41 -7 18 27 18 54 c 0
+ 18 130 13 322 13 322 c 1
+ 47 346 l 1
+ 73 329 l 1
+ 73 329 75 159 75 79 c 0
+ 75 61 83 51 93 51 c 0
+ 108 51 165 157 193 251 c 1
+ 196 317 l 1
+ 222 343 l 1
+ 253 320 l 1
+ 253 320 236 217 236 150 c 0
+ 236 115 238 36 262 36 c 0
+ 278 36 284 43 294 56 c 1
+ 318 28 l 1
+ 301 7 285 -5 255 -5 c 0
+ 192 -5 185 80 185 156 c 1
+EndSplineSet
+EndChar
+
 StartChar: q
-Encoding: 113 113 11
+Encoding: 113 113 12
 Width: 298
 VWidth: 0
 Flags: HW
@@ -475,7 +505,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 102 102 12
+Encoding: 102 102 13
 Width: 224
 VWidth: 0
 Flags: HW
@@ -507,7 +537,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 104 104 13
+Encoding: 104 104 14
 Width: 300
 VWidth: 0
 Flags: HW
@@ -541,7 +571,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 118 118 14
+Encoding: 118 118 15
 Width: 288
 VWidth: 0
 Flags: HW
@@ -561,6 +591,46 @@ SplineSet
  225 369 256 349 256 329 c 3
  256 216.875 187.004882812 89.8037109375 149 2 c 1
  110 -20 l 29
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 16
+Width: 466
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+205 340 m 3
+ 144 340 109 222 88 177 c 1
+ 88 266 74 330 74 330 c 1
+ 57 346 l 1
+ 23 322 l 1
+ 23 322 37 264 37 183 c 3
+ 37 116 20 13 20 13 c 9
+ 51 -10 l 1
+ 77 16 l 1
+ 80 82 l 1
+ 108 176 165 282 180 282 c 3
+ 190 282 198 272 198 254 c 3
+ 198 201 177 22 175 13 c 9
+ 206 -10 l 1
+ 232 16 l 1
+ 235 82 l 1
+ 263 176 320 282 335 282 c 3
+ 345 282 353 272 353 254 c 3
+ 353 208 336 132 336 68 c 3
+ 336 38 366 -9 396 -9 c 3
+ 422 -9 436 10 451 24 c 9
+ 423 55 l 1
+ 419 48 413 46 404 46 c 3
+ 396 46 396 79 396 99 c 3
+ 396 161 410 206 410 279 c 3
+ 410 306 387 340 360 340 c 3
+ 299 340 264 222 243 177 c 1
+ 243 224 240 340 205 340 c 3
 EndSplineSet
 EndChar
 EndChars
