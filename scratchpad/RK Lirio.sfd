@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1436140971
+ModificationTime: 1436142158
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 40 20 4
+WinInfo: 60 20 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -77,7 +77,7 @@ Grid
  -36 -202 l 1
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65537 34
+BeginChars: 65537 36
 
 StartChar: o
 Encoding: 111 111 0
@@ -1154,6 +1154,77 @@ SplineSet
  35 440 l 1
  49 467 l 1
  115 471 212 475 212 475 c 1
+EndSplineSet
+EndChar
+
+StartChar: J
+Encoding: 74 74 34
+Width: 240
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+150 77 m 3
+ 150 -33 80 -109 42 -146 c 1
+ 22 -146 l 1
+ 15 -123 l 1
+ 54 -94 96 -24 96 77 c 3
+ 96 185 92 312 92 427 c 1
+ 53 427 l 1
+ 25 440 l 1
+ 39 467 l 1
+ 105 471 205 481 205 481 c 1
+ 225 465 l 1
+ 197 440 l 1
+ 149 440 l 1
+ 149 324 150 188 150 77 c 3
+EndSplineSet
+EndChar
+
+StartChar: X
+Encoding: 88 88 35
+Width: 352
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+206 476 m 25
+ 236 452 l 1
+ 244.693359375 363.62109375 321.41015625 44.8955078125 336 -1 c 1
+ 303 -22 l 1
+ 280 -1 l 1
+ 268.661132812 35.22265625 202.92578125 327.071289062 191 392 c 1
+ 157.907226562 327.138671875 70 143.28515625 70 49 c 3
+ 70 33 81 16 81 16 c 1
+ 46 -24 l 1
+ 46 -24 15 -4 15 16 c 3
+ 15 128.125 128.995117188 366.196289062 167 454 c 1
+ 206 476 l 25
+EndSplineSet
+Fore
+SplineSet
+280 403 m 3
+ 280 419 269 436 269 436 c 1
+ 304 476 l 1
+ 318 467 340 445 340 415 c 3
+ 340 380 243 288 194 253 c 1
+ 236 192 329 49 342 -2 c 1
+ 303 -24 l 1
+ 273 0 l 1
+ 268 47 185 169 151 218 c 1
+ 116 190 71 91 71 48 c 3
+ 71 32 82 15 82 15 c 1
+ 47 -25 l 1
+ 34 -17 13 4 13 33 c 3
+ 13 89 82 205 135 244 c 1
+ 93 303 23 401 10 452 c 1
+ 49 474 l 1
+ 79 450 l 1
+ 83 407 143 329 176 280 c 1
+ 204 305 280 380 280 403 c 3
 EndSplineSet
 EndChar
 EndChars
