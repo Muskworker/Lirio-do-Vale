@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1436151416
+ModificationTime: 1436151695
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -77,7 +77,7 @@ Grid
  -36 -202 l 1
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65537 45
+BeginChars: 65537 46
 
 StartChar: o
 Encoding: 111 111 0
@@ -1306,8 +1306,35 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: L
+Encoding: 76 76 38
+Width: 395
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+77.0439453125 3.505859375 m 1
+ 77.0146484375 3.171875 77 3 77 3 c 2
+ 51 -23 l 1
+ 20 0 l 1
+ 20 0 37 151 37 218 c 0
+ 37 313.669921875 26.5654296875 456.71484375 24 462 c 1
+ 46 494 l 1
+ 64.0048828125 481.3203125 62.6103515625 483.264648438 77 467 c 1
+ 81.0595703125 379.771484375 88 302.104492188 88 212 c 0
+ 88 158.673828125 83.34765625 86.3173828125 80.0947265625 42.2333984375 c 1
+ 115.504882812 31.4638671875 234.630859375 18 264 18 c 0
+ 300 18 320 40 333 54 c 1
+ 385 43 l 1
+ 385 6 351 -26 300 -26 c 0
+ 245.05078125 -26 143.381835938 -14.619140625 77.0439453125 3.505859375 c 1
+EndSplineSet
+EndChar
+
 StartChar: X
-Encoding: 88 88 38
+Encoding: 88 88 39
 Width: 352
 VWidth: 0
 Flags: HW
@@ -1352,7 +1379,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 87 87 39
+Encoding: 87 87 40
 Width: 512
 VWidth: 0
 Flags: HW
@@ -1385,7 +1412,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 89 89 40
+Encoding: 89 89 41
 Width: 331
 VWidth: 0
 Flags: HW
@@ -1412,7 +1439,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 77 77 41
+Encoding: 77 77 42
 Width: 534
 VWidth: 0
 Flags: HW
@@ -1446,7 +1473,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 67 67 42
+Encoding: 67 67 43
 Width: 322
 VWidth: 0
 Flags: HW
@@ -1481,7 +1508,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 71 71 43
+Encoding: 71 71 44
 Width: 322
 VWidth: 0
 Flags: HW
@@ -1511,7 +1538,7 @@ EndSplineSet
 EndChar
 
 StartChar: Q
-Encoding: 81 81 44
+Encoding: 81 81 45
 Width: 401
 VWidth: 0
 Flags: HW
