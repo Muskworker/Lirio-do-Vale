@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1436152311
+ModificationTime: 1436153551
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -77,7 +77,7 @@ Grid
  -36 -202 l 1
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65537 48
+BeginChars: 65537 50
 
 StartChar: o
 Encoding: 111 111 0
@@ -1042,8 +1042,39 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: D
+Encoding: 68 68 30
+Width: 371
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+95.3466796875 249 m 3
+ 95.3466796875 197.201171875 91.017578125 83.1328125 88 42.2333984375 c 1
+ 102.842773438 37.71875 145.227190116 25 177 25 c 3
+ 246 25 294 123 294 213 c 7
+ 294 337.915758538 251.658203125 434.725585938 186.857421875 444.087890625 c 1
+ 87.103515625 445 l 1
+ 90.2548828125 388.744140625 95.3466796875 306.484375 95.3466796875 249 c 3
+209 478 m 0
+ 233.099558854 478 252.056410065 468.473344857 266.825232112 454.952278801 c 0
+ 310.205065876 422.00354633 351 354.664239597 351 259 c 7
+ 351 107 265 -19 176 -19 c 3
+ 146.520196846 -19 100.859208475 -3.00100481314 77.0439453125 3.505859375 c 1
+ 77.0146484375 3.171875 77 3 77 3 c 1
+ 51 -23 l 1
+ 20 0 l 1
+ 20 0 37 151 37 218 c 3
+ 37 313.669921875 26.5654296875 456.71484375 24 462 c 1
+ 46 480 l 1
+ 100.333333333 479.333333333 154.666666667 478.666666667 209 478 c 0
+EndSplineSet
+EndChar
+
 StartChar: O
-Encoding: 79 79 30
+Encoding: 79 79 31
 Width: 407
 VWidth: 0
 Flags: HW
@@ -1065,7 +1096,7 @@ EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 65 65 31
+Encoding: 65 65 32
 Width: 357
 VWidth: 0
 Flags: HW
@@ -1096,7 +1127,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 86 86 32
+Encoding: 86 86 33
 Width: 347
 VWidth: 0
 Flags: HW
@@ -1120,7 +1151,7 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 78 78 33
+Encoding: 78 78 34
 Width: 405
 VWidth: 0
 Flags: HW
@@ -1194,7 +1225,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z
-Encoding: 90 90 34
+Encoding: 90 90 35
 Width: 371
 VWidth: 0
 Flags: HW
@@ -1220,7 +1251,7 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 72 72 35
+Encoding: 72 72 36
 Width: 437
 VWidth: 0
 Flags: HW
@@ -1253,7 +1284,7 @@ EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 85 85 36
+Encoding: 85 85 37
 Width: 389
 VWidth: 0
 Flags: HW
@@ -1278,7 +1309,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 74 74 37
+Encoding: 74 74 38
 Width: 240
 VWidth: 0
 Flags: HW
@@ -1307,7 +1338,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 76 76 38
+Encoding: 76 76 39
 Width: 395
 VWidth: 0
 Flags: HW
@@ -1333,8 +1364,37 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: T
+Encoding: 84 84 40
+Width: 359
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+203.841796875 249 m 0
+ 203.841796875 178.474609375 198.614257812 62.439453125 193.4453125 3.505859375 c 0
+ 193.416015625 3.171875 193.400390625 3 193.400390625 3 c 1
+ 167.400390625 -23 l 1
+ 136.400390625 0 l 1
+ 136.400390625 0 153.400390625 151 153.400390625 218 c 0
+ 153.400390625 286.756835938 148.01171875 379.984375 144.026367188 428.956054688 c 1
+ 91 427.458984375 l 2
+ 55.005859375 426.9921875 43 369 37 357 c 1
+ -15 418 l 1
+ -15 418 7 467 90 467 c 2
+ 253 467 l 2
+ 336 467 358 418 358 418 c 1
+ 306 357 l 1
+ 300 369 288 427.458984375 252 427.458984375 c 2
+ 195.599609375 429 l 1
+ 198.75 372.744140625 203.841796875 306.484375 203.841796875 249 c 0
+EndSplineSet
+EndChar
+
 StartChar: X
-Encoding: 88 88 39
+Encoding: 88 88 41
 Width: 352
 VWidth: 0
 Flags: HW
@@ -1379,7 +1439,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 87 87 40
+Encoding: 87 87 42
 Width: 512
 VWidth: 0
 Flags: HW
@@ -1412,7 +1472,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 89 89 41
+Encoding: 89 89 43
 Width: 331
 VWidth: 0
 Flags: HW
@@ -1439,7 +1499,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 77 77 42
+Encoding: 77 77 44
 Width: 534
 VWidth: 0
 Flags: HW
@@ -1473,7 +1533,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 69 69 43
+Encoding: 69 69 45
 Width: 395
 VWidth: 0
 Flags: HW
@@ -1509,7 +1569,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 67 67 44
+Encoding: 67 67 46
 Width: 322
 VWidth: 0
 Flags: HW
@@ -1544,7 +1604,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 71 71 45
+Encoding: 71 71 47
 Width: 322
 VWidth: 0
 Flags: HW
@@ -1574,7 +1634,7 @@ EndSplineSet
 EndChar
 
 StartChar: Q
-Encoding: 81 81 46
+Encoding: 81 81 48
 Width: 401
 VWidth: 0
 Flags: HW
@@ -1611,10 +1671,10 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 70 70 47
+Encoding: 70 70 49
 Width: 311
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Fore
