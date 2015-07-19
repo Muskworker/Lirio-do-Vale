@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1437285489
+ModificationTime: 1437285962
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 20 20 4
+WinInfo: 0 20 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -77,7 +77,7 @@ Grid
  -36 -202 l 1
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65537 55
+BeginChars: 65537 58
 
 StartChar: o
 Encoding: 111 111 0
@@ -1919,8 +1919,36 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: comma
+Encoding: 44 44 53
+Width: 177
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+79 -9 m 7
+ 98 -9 115 -27 115 -46 c 7
+ 115 -63 86 -82 69 -82 c 7
+ 52 -82 36 -68 36 -51 c 7
+ 36 -37 65 -9 79 -9 c 7
+EndSplineSet
+Fore
+SplineSet
+69.0695506827 -7.99989424873 m 1
+ 69.0463449163 -7.99989424873 69.0231613209 -8 69 -8 c 0
+ 52 -8 36 6 36 23 c 0
+ 36 37 65 65 79 65 c 0
+ 98 65 115 47 115 28 c 0
+ 115 -9.85739921015 94 -62 85.6953125 -80 c 1
+ 74.6953125 -90 l 1
+ 61.6953125 -73 l 1
+ 63.5370503797 -55.8126968688 66.2263721813 -33.5389567436 69.0695506827 -7.99989424873 c 1
+EndSplineSet
+EndChar
+
 StartChar: B
-Encoding: 66 66 53
+Encoding: 66 66 54
 Width: 381
 VWidth: 0
 Flags: HW
@@ -1964,7 +1992,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 46 46 54
+Encoding: 46 46 55
 Width: 177
 VWidth: 0
 Flags: HW
@@ -1977,6 +2005,54 @@ SplineSet
  115 11 91 -8 74 -8 c 3
  57 -8 36 6 36 23 c 3
  36 37 60 65 74 65 c 3
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 56
+Width: 177
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+74 327 m 3
+ 93 327 115 309 115 290 c 3
+ 115 273 91 254 74 254 c 3
+ 57 254 36 268 36 285 c 3
+ 36 299 60 327 74 327 c 3
+74 65 m 3
+ 93 65 115 47 115 28 c 3
+ 115 11 91 -8 74 -8 c 3
+ 57 -8 36 6 36 23 c 3
+ 36 37 60 65 74 65 c 3
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 57
+Width: 177
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+69.0695506827 -7.99989424873 m 5
+ 69.0463449163 -7.99989424873 69.0231613209 -8 69 -8 c 4
+ 52 -8 36 6 36 23 c 4
+ 36 37 65 65 79 65 c 4
+ 98 65 115 47 115 28 c 4
+ 115 -9.85739921015 94 -62 85.6953125 -80 c 5
+ 74.6953125 -90 l 5
+ 61.6953125 -73 l 5
+ 63.5370503797 -55.8126968688 66.2263721813 -33.5389567436 69.0695506827 -7.99989424873 c 5
+74 327 m 3
+ 93 327 115 309 115 290 c 3
+ 115 273 91 254 74 254 c 3
+ 57 254 36 268 36 285 c 3
+ 36 299 60 327 74 327 c 3
 EndSplineSet
 EndChar
 EndChars
