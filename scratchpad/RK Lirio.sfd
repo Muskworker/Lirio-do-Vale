@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1436019825
-ModificationTime: 1437285962
+ModificationTime: 1437286901
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 20 4
+WinInfo: 20 20 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -77,7 +77,7 @@ Grid
  -36 -202 l 1
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65537 58
+BeginChars: 65537 61
 
 StartChar: o
 Encoding: 111 111 0
@@ -2053,6 +2053,81 @@ SplineSet
  115 273 91 254 74 254 c 3
  57 254 36 268 36 285 c 3
  36 299 60 327 74 327 c 3
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 58
+Width: 99
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+SplineSet
+10 431 m 0
+ 10 445 39 473 53 473 c 0
+ 72 473 89 455 89 436 c 0
+ 89 398.142578125 68 378 59.6953125 360 c 1
+ 48.6953125 350 l 1
+ 35.6953125 367 l 1
+ 35.6953125 410 10 400.373046875 10 431 c 0
+EndSplineSet
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 59
+Width: 209
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+63 431 m 4
+ 63 445 92 473 106 473 c 4
+ 125 473 142 455 142 436 c 4
+ 142 398.142578125 121 378 112.6953125 360 c 5
+ 101.6953125 350 l 5
+ 88.6953125 367 l 5
+ 88.6953125 410 63 400.373046875 63 431 c 4
+EndSplineSet
+Fore
+SplineSet
+120 431 m 0
+ 120 445 149 473 163 473 c 0
+ 182 473 199 455 199 436 c 0
+ 199 398.142578125 178 378 169.6953125 360 c 1
+ 158.6953125 350 l 1
+ 145.6953125 367 l 1
+ 145.6953125 410 120 400.373046875 120 431 c 0
+10 431 m 0
+ 10 445 39 473 53 473 c 0
+ 72 473 89 455 89 436 c 0
+ 89 398.142578125 68 378 59.6953125 360 c 1
+ 48.6953125 350 l 1
+ 35.6953125 367 l 1
+ 35.6953125 410 10 400.373046875 10 431 c 0
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 60
+Width: 330
+VWidth: 0
+Flags: HWO
+HStem: 285 40<73 112> 298 39<169 247> 566 38<184.03 245.968>
+VStem: 112 57<-184 285 337 555.574>
+LayerCount: 2
+Back
+Fore
+SplineSet
+73 158 m 1xb0
+ 45 171 l 25x70
+ 59 198 l 1xb0
+ 124.748046875 202.251953125 186 212 255 212 c 1
+ 275 196 l 25
+ 247 171 l 1
+ 176 171 136.409179688 156.924804688 73 158 c 1xb0
 EndSplineSet
 EndChar
 EndChars
